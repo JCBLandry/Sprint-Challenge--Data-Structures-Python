@@ -1,5 +1,5 @@
 import time
-
+# starting
 start_time = time.time()
 
 f = open('names_1.txt', 'r')
